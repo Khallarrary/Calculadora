@@ -1,13 +1,16 @@
-# Calculadora Simples - C#
-Este é um projeto de uma calculadora simples desenvolvida em C# utilizando Windows Forms. A calculadora permite ao usuário realizar operações básicas como adição, subtração, multiplicação e divisão. A interface é intuitiva e foi projetada para proporcionar uma experiência de uso simples e direta.
+# 📟 Calculadora Simples - C#
 
-## Funcionalidades
-Operações Básicas: Adição (+), Subtração (-), Multiplicação (x), e Divisão (÷).
-Entrada de Números: Permite ao usuário inserir números usando botões numéricos.
-Exibição de Resultados: Mostra o resultado da operação no mesmo label, atualizando dinamicamente conforme as interações.
-Verificação de Entrada: Garantia de que apenas valores numéricos válidos sejam usados nas operações.
-Divisão por Zero: Exibe uma mensagem de erro caso o usuário tente dividir por zero.
+Este é um projeto de uma **calculadora simples** desenvolvida em **C#** utilizando **Windows Forms**. A calculadora permite realizar operações básicas como **adição, subtração, multiplicação e divisão**. 🧮
 
-## Tecnologias Utilizadas
-Linguagem: C#
-Framework: Windows Forms
+## ✨ Funcionalidades
+
+✅ **Operações Matemáticas**: Adição (+), Subtração (-), Multiplicação (×) e Divisão (÷).  
+✅ **Interface Intuitiva**: Design simples e fácil de usar.  
+✅ **Entrada de Números**: Usuário pode inserir números usando os botões numéricos.  
+✅ **Exibição de Resultados**: Mostra o resultado diretamente na tela.  
+✅ **Tratamento de Erros**: Exibe mensagens caso ocorra erro (ex: divisão por zero).  
+
+## 🛠️ Tecnologias Utilizadas
+
+- 🔹 **Linguagem**: C#  
+- 🔹 **Framework**: Windows Forms 
